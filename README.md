@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Matheus. I'm a Python developer with a passion for free software and weird programming languages.  
+- 🔭 I’m currently working on a Scheme compiler for the RISCV assembly language.  
+- 🌎 You can follow my latest work at my [website](http://matheuslemos.xyz/).  
+- 📫 You can message me by [email](mailto:matheuslemosf@protonmail.com) or XMPP at mlemosf@matheuslemos.xyz
+
 <!--
 **mlemosf/mlemosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
