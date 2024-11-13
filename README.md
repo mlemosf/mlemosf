@@ -3,7 +3,7 @@
 My name is Matheus. I'm a Python developer with a passion for free software and weird programming languages.  
 - 🔭 I’m currently working on a voice assistant using ChatGTP.
 - ⚡ I recently worked on a Lisp to RISC-V compiler, writen in C.
-- 🌎 You can follow my latest work at my [website](http://blog.matheuslemos.xyz/).  
+- 🌎 You can follow my latest work at my [website](https://blog.matheuslemos.com/).  
 - 📫 You can message me by [email](mailto:matheuslemosf@protonmail.com) or XMPP at mlemosf@matheuslemos.xyz
 
 <!--
