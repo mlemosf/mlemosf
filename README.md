@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Matheus. I'm a Data Engineer with a passion for weird programming languages and all things free software.
-- 🔭 I’m currently working on [Timurr, a pluggable pomodoro timer for all your project tracking tools ⏰](timurr.onrender.com)
+- 🔭 I’m currently working on [Timurr, a pluggable pomodoro timer for all your project tracking tools ⏰](https://timurr.onrender.com)
 - ⚡ I recently worked on a Lisp to RISC-V compiler, written in C and a voice assistant using the LLaMa2 models.
 - 🌎 You can follow my latest work (or latest rants) at my [blog](https://blog.matheuslemos.com/).
 - 💼 For business questions, please refer to [my portfolio](https://matheuslemos.com) or [contact me via email](mailto:matheuslemosf@gmail.com) 📫
